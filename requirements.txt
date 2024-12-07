@@ -1,0 +1,13 @@
+pandas==2.2.0
+numpy==1.26.3
+scikit-learn==1.4.0
+xgboost==2.0.3
+tensorflow-macos==2.15.0
+requests==2.31.0
+python-dotenv==1.0.0
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+scipy==1.12.0
+fastapi==0.109.0
+uvicorn==0.27.0
