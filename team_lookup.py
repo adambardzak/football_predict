@@ -1,4 +1,8 @@
 from typing import Dict
+from venv import logger
+from wsgiref import headers
+
+import requests
 
 
 def get_team_ids(league_id: int) -> Dict:
